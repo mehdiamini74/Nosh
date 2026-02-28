@@ -1,0 +1,1521 @@
+{
+  "cities": [
+    {
+      "id": "vancouver",
+      "name": "Vancouver",
+      "region": "Greater Vancouver",
+      "defaultMapRegion": {
+        "latitude": 49.2827,
+        "longitude": -123.1207,
+        "latitudeDelta": 0.24,
+        "longitudeDelta": 0.24
+      }
+    }
+  ],
+  "venues": [
+    {
+      "id": "venue1",
+      "name": "Nosh Spot 1",
+      "coordinates": {
+        "latitude": 49.33742411262671,
+        "longitude": -123.06696070155287
+      },
+      "neighborhood": "Gastown",
+      "cuisineTags": [
+        "Seafood"
+      ],
+      "priceLevel": 2,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0001",
+      "website": "https://example.com/venue1",
+      "reservationURL": "https://example.com/venue1/reserve"
+    },
+    {
+      "id": "venue2",
+      "name": "Nosh Spot 2",
+      "coordinates": {
+        "latitude": 49.229486164127216,
+        "longitude": -123.17051536058094
+      },
+      "neighborhood": "Yaletown",
+      "cuisineTags": [
+        "Japanese"
+      ],
+      "priceLevel": 3,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0002",
+      "website": "https://example.com/venue2",
+      "reservationURL": "https://example.com/venue2/reserve"
+    },
+    {
+      "id": "venue3",
+      "name": "Nosh Spot 3",
+      "coordinates": {
+        "latitude": 49.32295986537553,
+        "longitude": -123.09238360131178
+      },
+      "neighborhood": "Kitsilano",
+      "cuisineTags": [
+        "Italian"
+      ],
+      "priceLevel": 4,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0003",
+      "website": "https://example.com/venue3",
+      "reservationURL": "https://example.com/venue3/reserve"
+    },
+    {
+      "id": "venue4",
+      "name": "Nosh Spot 4",
+      "coordinates": {
+        "latitude": 49.30306764817283,
+        "longitude": -123.14372362508931
+      },
+      "neighborhood": "Mount Pleasant",
+      "cuisineTags": [
+        "Mexican"
+      ],
+      "priceLevel": 1,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0004",
+      "website": "https://example.com/venue4",
+      "reservationURL": "https://example.com/venue4/reserve"
+    },
+    {
+      "id": "venue5",
+      "name": "Nosh Spot 5",
+      "coordinates": {
+        "latitude": 49.29541329988142,
+        "longitude": -123.1078837919631
+      },
+      "neighborhood": "Downtown",
+      "cuisineTags": [
+        "Pub"
+      ],
+      "priceLevel": 2,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0005",
+      "website": "https://example.com/venue5",
+      "reservationURL": "https://example.com/venue5/reserve"
+    },
+    {
+      "id": "venue6",
+      "name": "Nosh Spot 6",
+      "coordinates": {
+        "latitude": 49.29244448205344,
+        "longitude": -123.16169405556943
+      },
+      "neighborhood": "Commercial Drive",
+      "cuisineTags": [
+        "Vegan"
+      ],
+      "priceLevel": 3,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0006",
+      "website": "https://example.com/venue6",
+      "reservationURL": "https://example.com/venue6/reserve"
+    },
+    {
+      "id": "venue7",
+      "name": "Nosh Spot 7",
+      "coordinates": {
+        "latitude": 49.27438035683495,
+        "longitude": -123.13347618157536
+      },
+      "neighborhood": "West End",
+      "cuisineTags": [
+        "Korean"
+      ],
+      "priceLevel": 4,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0007",
+      "website": "https://example.com/venue7",
+      "reservationURL": "https://example.com/venue7/reserve"
+    },
+    {
+      "id": "venue8",
+      "name": "Nosh Spot 8",
+      "coordinates": {
+        "latitude": 49.3094614497485,
+        "longitude": -123.06132165244603
+      },
+      "neighborhood": "Richmond",
+      "cuisineTags": [
+        "Fusion"
+      ],
+      "priceLevel": 1,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0008",
+      "website": "https://example.com/venue8",
+      "reservationURL": "https://example.com/venue8/reserve"
+    },
+    {
+      "id": "venue9",
+      "name": "Nosh Spot 9",
+      "coordinates": {
+        "latitude": 49.33662745677119,
+        "longitude": -123.11539875430849
+      },
+      "neighborhood": "Burnaby",
+      "cuisineTags": [
+        "Steakhouse"
+      ],
+      "priceLevel": 2,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0009",
+      "website": "https://example.com/venue9",
+      "reservationURL": "https://example.com/venue9/reserve"
+    },
+    {
+      "id": "venue10",
+      "name": "Nosh Spot 10",
+      "coordinates": {
+        "latitude": 49.2760825026471,
+        "longitude": -123.14851111100208
+      },
+      "neighborhood": "North Vancouver",
+      "cuisineTags": [
+        "Tapas"
+      ],
+      "priceLevel": 3,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0010",
+      "website": "https://example.com/venue10",
+      "reservationURL": "https://example.com/venue10/reserve"
+    },
+    {
+      "id": "venue11",
+      "name": "Nosh Spot 11",
+      "coordinates": {
+        "latitude": 49.22701091952714,
+        "longitude": -123.1774066171491
+      },
+      "neighborhood": "Gastown",
+      "cuisineTags": [
+        "Seafood"
+      ],
+      "priceLevel": 4,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0011",
+      "website": "https://example.com/venue11",
+      "reservationURL": "https://example.com/venue11/reserve"
+    },
+    {
+      "id": "venue12",
+      "name": "Nosh Spot 12",
+      "coordinates": {
+        "latitude": 49.27848726345167,
+        "longitude": -123.14248418465756
+      },
+      "neighborhood": "Yaletown",
+      "cuisineTags": [
+        "Japanese"
+      ],
+      "priceLevel": 1,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0012",
+      "website": "https://example.com/venue12",
+      "reservationURL": "https://example.com/venue12/reserve"
+    },
+    {
+      "id": "venue13",
+      "name": "Nosh Spot 13",
+      "coordinates": {
+        "latitude": 49.26830179062809,
+        "longitude": -123.0736852650606
+      },
+      "neighborhood": "Kitsilano",
+      "cuisineTags": [
+        "Italian"
+      ],
+      "priceLevel": 2,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0013",
+      "website": "https://example.com/venue13",
+      "reservationURL": "https://example.com/venue13/reserve"
+    },
+    {
+      "id": "venue14",
+      "name": "Nosh Spot 14",
+      "coordinates": {
+        "latitude": 49.28579033229752,
+        "longitude": -123.11343875667681
+      },
+      "neighborhood": "Mount Pleasant",
+      "cuisineTags": [
+        "Mexican"
+      ],
+      "priceLevel": 3,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0014",
+      "website": "https://example.com/venue14",
+      "reservationURL": "https://example.com/venue14/reserve"
+    },
+    {
+      "id": "venue15",
+      "name": "Nosh Spot 15",
+      "coordinates": {
+        "latitude": 49.2510348088538,
+        "longitude": -123.1778370305031
+      },
+      "neighborhood": "Downtown",
+      "cuisineTags": [
+        "Pub"
+      ],
+      "priceLevel": 4,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0015",
+      "website": "https://example.com/venue15",
+      "reservationURL": "https://example.com/venue15/reserve"
+    },
+    {
+      "id": "venue16",
+      "name": "Nosh Spot 16",
+      "coordinates": {
+        "latitude": 49.261717151451336,
+        "longitude": -123.16429631284163
+      },
+      "neighborhood": "Commercial Drive",
+      "cuisineTags": [
+        "Vegan"
+      ],
+      "priceLevel": 1,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0016",
+      "website": "https://example.com/venue16",
+      "reservationURL": "https://example.com/venue16/reserve"
+    },
+    {
+      "id": "venue17",
+      "name": "Nosh Spot 17",
+      "coordinates": {
+        "latitude": 49.28392686150046,
+        "longitude": -123.06085797181689
+      },
+      "neighborhood": "West End",
+      "cuisineTags": [
+        "Korean"
+      ],
+      "priceLevel": 2,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0017",
+      "website": "https://example.com/venue17",
+      "reservationURL": "https://example.com/venue17/reserve"
+    },
+    {
+      "id": "venue18",
+      "name": "Nosh Spot 18",
+      "coordinates": {
+        "latitude": 49.303637563681505,
+        "longitude": -123.15887878038122
+      },
+      "neighborhood": "Richmond",
+      "cuisineTags": [
+        "Fusion"
+      ],
+      "priceLevel": 3,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0018",
+      "website": "https://example.com/venue18",
+      "reservationURL": "https://example.com/venue18/reserve"
+    },
+    {
+      "id": "venue19",
+      "name": "Nosh Spot 19",
+      "coordinates": {
+        "latitude": 49.329928584389954,
+        "longitude": -123.08508880942941
+      },
+      "neighborhood": "Burnaby",
+      "cuisineTags": [
+        "Steakhouse"
+      ],
+      "priceLevel": 4,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0019",
+      "website": "https://example.com/venue19",
+      "reservationURL": "https://example.com/venue19/reserve"
+    },
+    {
+      "id": "venue20",
+      "name": "Nosh Spot 20",
+      "coordinates": {
+        "latitude": 49.31082820302728,
+        "longitude": -123.0719087620123
+      },
+      "neighborhood": "North Vancouver",
+      "cuisineTags": [
+        "Tapas"
+      ],
+      "priceLevel": 1,
+      "images": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+      ],
+      "phone": "+1-604-555-0020",
+      "website": "https://example.com/venue20",
+      "reservationURL": "https://example.com/venue20/reserve"
+    }
+  ],
+  "deals": [
+    {
+      "id": "deal1",
+      "venueId": "venue1",
+      "title": "Deal 1: $6 pints",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "earlyBird",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Oysters",
+        "Seafood"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal2",
+      "venueId": "venue2",
+      "title": "Deal 2: $2 oysters",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "tacoTuesday",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Beer",
+        "Sports Bar"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal3",
+      "venueId": "venue3",
+      "title": "Deal 3: $8 tacos",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "oysters",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Taco Tue",
+        "Mexican"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal4",
+      "venueId": "venue4",
+      "title": "Deal 4: Sunset spritz",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "beerSpecial",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Date Night",
+        "Wine"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal5",
+      "venueId": "venue5",
+      "title": "Deal 5: Half-price apps",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "lateNight",
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Patio",
+        "Cocktails"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal6",
+      "venueId": "venue6",
+      "title": "Deal 6: $6 pints",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "happyHour",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Oysters",
+        "Seafood"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal7",
+      "venueId": "venue7",
+      "title": "Deal 7: $2 oysters",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "earlyBird",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": true,
+      "tags": [
+        "Beer",
+        "Sports Bar"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal8",
+      "venueId": "venue8",
+      "title": "Deal 8: $8 tacos",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "tacoTuesday",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Taco Tue",
+        "Mexican"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal9",
+      "venueId": "venue9",
+      "title": "Deal 9: Sunset spritz",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "oysters",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Date Night",
+        "Wine"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal10",
+      "venueId": "venue10",
+      "title": "Deal 10: Half-price apps",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "beerSpecial",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Patio",
+        "Cocktails"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal11",
+      "venueId": "venue11",
+      "title": "Deal 11: $6 pints",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "lateNight",
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Oysters",
+        "Seafood"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal12",
+      "venueId": "venue12",
+      "title": "Deal 12: $2 oysters",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "happyHour",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Beer",
+        "Sports Bar"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal13",
+      "venueId": "venue13",
+      "title": "Deal 13: $8 tacos",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "earlyBird",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Taco Tue",
+        "Mexican"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal14",
+      "venueId": "venue14",
+      "title": "Deal 14: Sunset spritz",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "tacoTuesday",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": true,
+      "tags": [
+        "Date Night",
+        "Wine"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal15",
+      "venueId": "venue15",
+      "title": "Deal 15: Half-price apps",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "oysters",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Patio",
+        "Cocktails"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal16",
+      "venueId": "venue16",
+      "title": "Deal 16: $6 pints",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "beerSpecial",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Oysters",
+        "Seafood"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal17",
+      "venueId": "venue17",
+      "title": "Deal 17: $2 oysters",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "lateNight",
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Beer",
+        "Sports Bar"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal18",
+      "venueId": "venue18",
+      "title": "Deal 18: $8 tacos",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "happyHour",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Taco Tue",
+        "Mexican"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal19",
+      "venueId": "venue19",
+      "title": "Deal 19: Sunset spritz",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "earlyBird",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Date Night",
+        "Wine"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal20",
+      "venueId": "venue20",
+      "title": "Deal 20: Half-price apps",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "tacoTuesday",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Patio",
+        "Cocktails"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal21",
+      "venueId": "venue1",
+      "title": "Deal 21: $6 pints",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "oysters",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": true,
+      "tags": [
+        "Oysters",
+        "Seafood"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal22",
+      "venueId": "venue2",
+      "title": "Deal 22: $2 oysters",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "beerSpecial",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Beer",
+        "Sports Bar"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal23",
+      "venueId": "venue3",
+      "title": "Deal 23: $8 tacos",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "lateNight",
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Taco Tue",
+        "Mexican"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal24",
+      "venueId": "venue4",
+      "title": "Deal 24: Sunset spritz",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "happyHour",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Date Night",
+        "Wine"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal25",
+      "venueId": "venue5",
+      "title": "Deal 25: Half-price apps",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "earlyBird",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Patio",
+        "Cocktails"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal26",
+      "venueId": "venue6",
+      "title": "Deal 26: $6 pints",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "tacoTuesday",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Oysters",
+        "Seafood"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal27",
+      "venueId": "venue7",
+      "title": "Deal 27: $2 oysters",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "oysters",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Beer",
+        "Sports Bar"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal28",
+      "venueId": "venue8",
+      "title": "Deal 28: $8 tacos",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "beerSpecial",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": true,
+      "tags": [
+        "Taco Tue",
+        "Mexican"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal29",
+      "venueId": "venue9",
+      "title": "Deal 29: Sunset spritz",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "lateNight",
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Date Night",
+        "Wine"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal30",
+      "venueId": "venue10",
+      "title": "Deal 30: Half-price apps",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "happyHour",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Patio",
+        "Cocktails"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal31",
+      "venueId": "venue11",
+      "title": "Deal 31: $6 pints",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "earlyBird",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Oysters",
+        "Seafood"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal32",
+      "venueId": "venue12",
+      "title": "Deal 32: $2 oysters",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "tacoTuesday",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Beer",
+        "Sports Bar"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal33",
+      "venueId": "venue13",
+      "title": "Deal 33: $8 tacos",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "oysters",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Taco Tue",
+        "Mexican"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal34",
+      "venueId": "venue14",
+      "title": "Deal 34: Sunset spritz",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "beerSpecial",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Date Night",
+        "Wine"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal35",
+      "venueId": "venue15",
+      "title": "Deal 35: Half-price apps",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "lateNight",
+      "startTime": "20:00",
+      "endTime": "23:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": true,
+      "tags": [
+        "Patio",
+        "Cocktails"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal36",
+      "venueId": "venue16",
+      "title": "Deal 36: $6 pints",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "happyHour",
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Oysters",
+        "Seafood"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal37",
+      "venueId": "venue17",
+      "title": "Deal 37: $2 oysters",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "earlyBird",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Beer",
+        "Sports Bar"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal38",
+      "venueId": "venue18",
+      "title": "Deal 38: $8 tacos",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "tacoTuesday",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Taco Tue",
+        "Mexican"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal39",
+      "venueId": "venue19",
+      "title": "Deal 39: Sunset spritz",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "oysters",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Date Night",
+        "Wine"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": "deal40",
+      "venueId": "venue20",
+      "title": "Deal 40: Half-price apps",
+      "description": "Limited-time offer with curated menu items and drinks.",
+      "dealType": "beerSpecial",
+      "startTime": "19:00",
+      "endTime": "22:00",
+      "daysOfWeek": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "isExclusive": false,
+      "tags": [
+        "Patio",
+        "Cocktails"
+      ],
+      "lastUpdated": "2026-01-15T12:00:00Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "review1",
+      "venueId": "venue1",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 1",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review2",
+      "venueId": "venue2",
+      "rating": 5,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 2",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review3",
+      "venueId": "venue3",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 3",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review4",
+      "venueId": "venue4",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 4",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review5",
+      "venueId": "venue5",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 5",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review6",
+      "venueId": "venue6",
+      "rating": 3,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 6",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review7",
+      "venueId": "venue7",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 7",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review8",
+      "venueId": "venue8",
+      "rating": 5,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 8",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review9",
+      "venueId": "venue9",
+      "rating": 5,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 9",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review10",
+      "venueId": "venue10",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 10",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review11",
+      "venueId": "venue11",
+      "rating": 5,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 11",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review12",
+      "venueId": "venue12",
+      "rating": 5,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 12",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review13",
+      "venueId": "venue13",
+      "rating": 3,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 13",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review14",
+      "venueId": "venue14",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 14",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review15",
+      "venueId": "venue15",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 15",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review16",
+      "venueId": "venue16",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 16",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review17",
+      "venueId": "venue17",
+      "rating": 5,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 17",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review18",
+      "venueId": "venue18",
+      "rating": 5,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 18",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review19",
+      "venueId": "venue19",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 19",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review20",
+      "venueId": "venue20",
+      "rating": 5,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 20",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review21",
+      "venueId": "venue1",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 21",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review22",
+      "venueId": "venue2",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 22",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review23",
+      "venueId": "venue3",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 23",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review24",
+      "venueId": "venue4",
+      "rating": 5,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 24",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review25",
+      "venueId": "venue5",
+      "rating": 5,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 25",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review26",
+      "venueId": "venue6",
+      "rating": 5,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 26",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review27",
+      "venueId": "venue7",
+      "rating": 5,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 27",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review28",
+      "venueId": "venue8",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 28",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review29",
+      "venueId": "venue9",
+      "rating": 4,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 29",
+      "createdAt": "2026-01-10T18:30:00Z"
+    },
+    {
+      "id": "review30",
+      "venueId": "venue10",
+      "rating": 5,
+      "text": "Great vibe and solid value for happy hour.",
+      "authorName": "Guest 30",
+      "createdAt": "2026-01-10T18:30:00Z"
+    }
+  ]
+}
